@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Chain_of_ Responsibility.DesignPattern.props" />
+</Project>
